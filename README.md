@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning More and more algorithms and the Maths behind it to better understand them.
 - 💞️ I’m looking to collaborate on challenging machine learning projects and would also love to contibute in early life cycle of a data science projects i.e., Data Collection, cleaning and vizualization tasks.
 - 📫 Accepts the fact that the world is bigger than our room ? Feel like we have similar interests and can rock it together? Want to connect? Just HMU on LinkedIn- https://www.linkedin.com/in/harvinder-sethi OR harshsethi1996@yahoo.com
-- Looking forward to talk !
 
 <!---
 Harvinder-Sethi/Harvinder-Sethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
